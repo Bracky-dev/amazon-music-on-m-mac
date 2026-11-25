@@ -1,5 +1,6 @@
 # Amazon Music on M Mac
 
+**(Make sure to star!)**
 Amazon's Mac installer refuses to open on Apple Silicon (M1–M6?) because its start script only checks for Intel chips.
 This is the native Mac app, not a crappy rebuild. The startup of the app is the only thing that is patched.
 
