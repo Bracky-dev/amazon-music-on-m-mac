@@ -11,4 +11,6 @@ This is the native Mac app, not a crappy rebuild. The startup of the app is the 
 
 It verifies Amazon's signature, then runs the installer through Rosetta.
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/903b6c45-d5a6-4643-a87c-896cfed46c0d" />
+
+<img width="625" height="400" alt="AmazonMusic" src="https://github.com/user-attachments/assets/011d8086-92ae-4b8b-b9f7-5d51532b8e73" />
+
